@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "jolly.jumping.app"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Jolly Jumping</name>
+
+  <description>
+      Do not touch the cactus by jumping over it.
+  </description>
+
+  <author href="http://cordova.io" email="tessadouwenga@gmail.com">
+      Tessa Douwenga
+
+<icon src="icon.png" />
+
+</widget>
